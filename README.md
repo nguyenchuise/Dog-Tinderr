@@ -10,7 +10,7 @@ In here:
 - Font Awesome (https://fontawesome.com/)
 
 ## Recall
-I have learned Bootrap components like container-fluid, carousel, nav, navbar... How to make website responsive. 
-And about CSS features: z-index, grid, sizing,...
-Last but not least, i practice to structure, organize, refactor in CSS file.
-Thank Dr. Angela Yu!
+I have learned Bootrap components like container-fluid, carousel, nav, navbar... How to make website responsive.  
+And about CSS features: z-index, grid, sizing,...  
+Last but not least, i practice to structure, organize, refactor in CSS file.  
+Thank Dr. Angela Yu!  
