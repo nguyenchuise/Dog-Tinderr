@@ -3,7 +3,7 @@ The project of Udemy Web Development course -- "Tinder for Dogs".
 This one helped me pratice Bootstrap5, HTML and CSS skills a lot.
 
 ## Check-it-out
-In here: 
+In here: https://nguyenchuise.github.io/Dog-Tinderr/
 
 ## Typography and Icons
 - Google Fonts (https://fonts.google.com/about)
